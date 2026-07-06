@@ -8,4 +8,8 @@ greet_white() {
     echo "hello white"
 }
 
+greet_black() {
+    echo "hello black"
+}
+
 say_hello
