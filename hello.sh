@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 say_hello() {
-    echo "hello"
+    echo "hello everyone"
 }
 
 greet_white() {
